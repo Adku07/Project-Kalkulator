@@ -1,0 +1,12 @@
+D:\Kalkulator New\Kalkulator Fix\Kalkulator\Kalkulator\bin\Debug\Kalkulator.exe.config
+D:\Kalkulator New\Kalkulator Fix\Kalkulator\Kalkulator\bin\Debug\Kalkulator.exe
+D:\Kalkulator New\Kalkulator Fix\Kalkulator\Kalkulator\bin\Debug\Kalkulator.pdb
+D:\Kalkulator New\Kalkulator Fix\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csproj.AssemblyReference.cache
+D:\Kalkulator New\Kalkulator Fix\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csproj.SuggestedBindingRedirects.cache
+D:\Kalkulator New\Kalkulator Fix\Kalkulator\Kalkulator\obj\Debug\Kalkulator.FormKalkulator.resources
+D:\Kalkulator New\Kalkulator Fix\Kalkulator\Kalkulator\obj\Debug\Kalkulator.Kalkulator.resources
+D:\Kalkulator New\Kalkulator Fix\Kalkulator\Kalkulator\obj\Debug\Kalkulator.Properties.Resources.resources
+D:\Kalkulator New\Kalkulator Fix\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csproj.GenerateResource.cache
+D:\Kalkulator New\Kalkulator Fix\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csproj.CoreCompileInputs.cache
+D:\Kalkulator New\Kalkulator Fix\Kalkulator\Kalkulator\obj\Debug\Kalkulator.exe
+D:\Kalkulator New\Kalkulator Fix\Kalkulator\Kalkulator\obj\Debug\Kalkulator.pdb
